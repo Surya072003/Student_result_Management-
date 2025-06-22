@@ -66,7 +66,7 @@ AverageMarks	Grade
       75–89	     B
       60–74	     C
       40–59	     D
-Below 40         F
+      Below 40   F       
 
 
 
